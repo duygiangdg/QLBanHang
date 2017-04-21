@@ -1,0 +1,8 @@
+c:\users\giang\documents\visual studio 2015\Projects\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+c:\users\giang\documents\visual studio 2015\Projects\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+c:\users\giang\documents\visual studio 2015\Projects\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+c:\users\giang\documents\visual studio 2015\Projects\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csprojResolveAssemblyReference.cache
+c:\users\giang\documents\visual studio 2015\Projects\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+c:\users\giang\documents\visual studio 2015\Projects\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.Cache
+c:\users\giang\documents\visual studio 2015\Projects\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+c:\users\giang\documents\visual studio 2015\Projects\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
